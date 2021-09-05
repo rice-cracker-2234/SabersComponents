@@ -1,6 +1,6 @@
 [
     {
-        "Name": "electron",
+        "Name": "Electron",
         "Link": "https://cdn.discordapp.com/attachments/882240993397731339/882241231688708157/ElectronDLL.dll",
         "IsWorking": true,
         "IsDirectDownloadLink": true,
@@ -8,7 +8,7 @@
     },
     
     {
-        "Name": "fluxus",
+        "Name": "Fluxus",
         "Link": "https://fluxteam.xyz/dll",
         "IsWorking": true,
         "IsDirectDownloadLink": false,
@@ -16,7 +16,7 @@
     },
     
     {
-        "Name": "oxygen",
+        "Name": "Oxygen",
         "Link": "https://oxygenu.xyz/OxygenU/Dll.txt",
         "IsWorking": true,
         "IsDirectDownloadLink": false,
@@ -24,7 +24,7 @@
     },
     
     {
-        "Name": "krnl",
+        "Name": "Krnl",
         "Link": "https://k-storage.com/bootstrapper/files/krnl.dll",
         "IsWorking": true,
         "IsDirectDownloadLink": true,
@@ -32,7 +32,7 @@
     },
     
     {
-        "Name": "skisploit",
+        "Name": "Skisploits",
         "Link": "http://api.thundermods.com/dlldownload.txt",
         "IsWorking": true,
         "IsDirectDownloadLink": false,
@@ -40,7 +40,7 @@
     },
     
     {
-        "Name": "furk",
+        "Name": "Furk",
         "Link": "https://cdn.discordapp.com/attachments/882240993397731339/882254988510892083/FurkByteCode.dll",
         "IsWorking": true,
         "IsDirectDownloadLink": true,
@@ -48,7 +48,7 @@
     },
     
     {
-        "Name": "zeus",
+        "Name": "Zeus",
         "Link": "https://cdn.discordapp.com/attachments/882240993397731339/882255373069864990/ZeusX.dll",
         "IsWorking": true,
         "IsDirectDownloadLink": true,
