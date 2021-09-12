@@ -1,7 +1,7 @@
 [
     {
         "Name": "Electron",
-        "Link": "https://cdn.discordapp.com/attachments/882240993397731339/882241231688708157/ElectronDLL.dll",
+        "Link": "https://github.com/khoaScript/SabersComponents/raw/main/dll/ElectronDLL.dll",
         "IsWorking": true,
         "IsDirectDownloadLink": true,
         "Pipe": "EPipe"
@@ -41,7 +41,7 @@
     
     {
         "Name": "Furk",
-        "Link": "https://cdn.discordapp.com/attachments/882240993397731339/882254988510892083/FurkByteCode.dll",
+        "Link": "https://github.com/khoaScript/SabersComponents/raw/main/dll/FurkByteCode.dll",
         "IsWorking": true,
         "IsDirectDownloadLink": true,
         "Pipe": "Furkus"
@@ -49,7 +49,7 @@
     
     {
         "Name": "Zeus",
-        "Link": "https://cdn.discordapp.com/attachments/882240993397731339/882255373069864990/ZeusX.dll",
+        "Link": "https://github.com/khoaScript/SabersComponents/raw/main/dll/ZeusX.dll",
         "IsWorking": true,
         "IsDirectDownloadLink": true,
         "Pipe": "furkisgay"
